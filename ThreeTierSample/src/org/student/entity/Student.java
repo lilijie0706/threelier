@@ -5,6 +5,7 @@ public class Student {
 	private String sname;
 	private int sage;
 	private String saddress;
+	//123456
 	
 	public Student() {
 		
